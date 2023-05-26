@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m currently working in Cogno Ai<br><br> I’m currently learning Data Science<br><br>Connect with on Linkedin Om Prakash<br><br>All of my projects are available at https://github.com/ompakash<br><br>Ask me about Django, Chatbots, Backend Development<br><br>How to reach me ompsofficial@gmail.com<br><br>
+I’m currently working in Cogno Ai<br><br> I’m currently learning Data Science<br><br>Connect with me on Linkedin <a href ="https://www.linkedin.com/in/omprakashshrivastava/">Om Prakash</a><br><br>All of my projects are available at https://github.com/ompakash<br><br>Ask me about Django, Chatbots, Backend Development<br><br>How to reach me ompsofficial@gmail.com<br><br>
 
 
 ## 🌐 Socials:
